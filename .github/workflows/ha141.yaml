@@ -24,4 +24,3 @@ jobs:
     steps:
       - name: Hello from Parallel and Sequential
         run: echo "Hello from Parallel and Sequential"
-
